@@ -1,0 +1,38 @@
+[
+    {
+        "quote": "Driggs Code made an amazing system for me to take care of my plants with an user-friendly platform. Their attention to detail and understanding of our brand was exceptional.",
+        "author": "Sebastian Addona",
+        "position": "Client, Hydroponics ABR",
+        "stars": 5
+    },
+    {
+        "quote": "Working with Driggs Code was a game-changer for our town. Their solutions helped out 9000 people, we are amazed.",
+        "author": "Sergio Fabian Martinez",
+        "position": "Mayor, Urdinarrain Goverment",
+        "stars": 5
+    },
+    {
+        "quote": "From start to finish, Driggs Code exceeded our expectations. Their team was always available to answer questions and provide guidance.",
+        "author": "Ana Gutierrez",
+        "position": "Owner, Grow Socks",
+        "stars": 5
+    },
+    {
+        "quote": "Driggs Code built us a custom inventory management system that streamlined our operations. It’s been a game-changer for our small bakery, saving us hours every week.",
+        "author": "Sarah Johnson",
+        "position": "Owner, Johnson Family Bakery",
+        "stars": 5
+    },
+    {
+        "quote": "Driggs Code developed a CRM system tailored to our auto repair shop. It’s helped us keep track of customer appointments and vehicle histories effortlessly.",
+        "author": "Carlos Mendoza",
+        "position": "Owner, Mendoza Auto Repair",
+        "stars": 5
+    },
+    {
+        "quote": "Driggs Code created a scheduling app for our nursery that’s made managing staff and customer bookings so much easier. Their team was incredibly responsive and supportive throughout the process.",
+        "author": "Emily Zhang",
+        "position": "Founder, Green Sprout Nursery",
+        "stars": 5
+    }
+]

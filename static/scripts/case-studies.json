@@ -1,0 +1,82 @@
+[
+    {
+        "id": "hydroponics",
+        "title": "Hydroponics ABR",
+        "image": "/static/images/case-study1.png",
+        "description": "A fully automated and monitored hydroponics system managed through a web server.",
+        "content": "<h3>About the Project</h3><p>Hydroponics ABR (Automated and Monitored Hydroponics System) is an innovative solution developed by Driggs Code, based in Buenos Aires, using the NFT (Nutrient Film Technique) model. This system circulates a nutrient-rich water film through plant roots, monitored by sensors for pH and flow, automating corrections to maintain a pH of 7. A pump ensures oxygenation, and a timer-controlled dropper supplies minerals, promoting eco-friendly cultivation.</p><h4>Environmental Benefits</h4><ul><li>Saves water</li><li>Enables production in challenging conditions</li><li>Eliminates agrochemicals (herbicides, pesticides)</li><li>Delivers high-quality crops</li><li>Prevents land overexploitation</li><li>Minimizes weed issues</li></ul><h3>Client</h3><p>The client senses data, corrected via automation, with measurements, username, and password sent to the server via sockets.</p><h3>Server</h3><p>The server stores data in a database and sends email alerts for plant health risks.</p><h3>Web</h3><p>Built with PHP and AJAX, the web interface offers login, real-time data monitoring, and a 'My Progress' section for weekly plant growth photos.</p><h3>Programmer</h3><p>Octavio Bottari - <a href='https://www.linkedin.com/in/octavio-bottari/' target='_blank'>LinkedIn</a></h3><h3>License</h3><p>Open-source under MIT License.</h3><h3>Contact</h3><p>Reach out at <a href='mailto:contact@driggscode.com'>contact@driggscode.com</a>.</p>",
+        "project_details": {
+            "service_provided": "Full Stack Web Development",
+            "project_duration": "10-12 Weeks",
+            "budget_range": "$8,000 - $15,000",
+            "project_summary": "Hydroponics ABR is a sustainable web-managed hydroponics system designed to automate plant growth monitoring and nutrient delivery, reducing environmental impact.",
+            "challenge": "Developing a reliable sensor integration and automation system within a tight budget, ensuring scalability for various crop types.",
+            "goals_for_the_project": "Create an eco-friendly, user-friendly platform to monitor and automate hydroponics, promoting sustainable agriculture in Argentina and beyond."
+        },
+        "unique_selling_points": "Leverages Argentine technical expertise at a fraction of U.S. costs, with real-time collaboration due to time zone alignment (EST+1)."
+    },
+    {
+        "id": "municipio-urdinarrain",
+        "title": "Urdinarrain Government",
+        "image": "/static/images/case-study2.png",
+        "description": "A municipal site run by a full-stack web server with custom code and WordPress for local services.",
+        "content": "<h3>About the Project</h3><p>Driggs Code developed a municipal website for Urdinarrain, Argentina, integrating a custom full-stack web server with WordPress. This platform delivers local services, community updates, and administrative tools, showcasing our ability to blend bespoke development with CMS solutions.</p><h3>Client</h3><p>The Urdinarrain government uses this site to enhance public service delivery and community engagement in Entre Ríos province.</p><h3>Server</h3><p>A custom server ensures seamless integration with WordPress for content management and local service listings.</p><h3>Web</h3><p>The site features a user-friendly interface with dynamic content updates, optimized for mobile and desktop users.</p><h3>License</h3><p>Proprietary, managed by the Urdinarrain government.</h3><h3>Contact</h3><p>For inquiries, email <a href='mailto:contact@driggscode.com'>contact@driggscode.com</a>.</p>",
+        "project_details": {
+            "service_provided": "Full Stack Web Development & WordPress Integration",
+            "project_duration": "8-10 Weeks",
+            "budget_range": "$6,000 - $12,000",
+            "project_summary": "A municipal website for Urdinarrain, combining custom full-stack development with WordPress to provide efficient local government services.",
+            "challenge": "Integrating legacy systems with WordPress while ensuring accessibility for a diverse user base in a rural area.",
+            "goals_for_the_project": "Deliver a scalable, accessible platform to improve government-citizen interaction and streamline local services in Urdinarrain."
+        },
+        "unique_selling_points": "Affordable, high-quality development from Buenos Aires, with cultural compatibility and cost savings compared to U.S. agencies."
+    },
+    {
+        "id": "piatto",
+        "title": "Piatto",
+        "image": "/static/images/case-study3.png",
+        "description": "A food ordering platform with in-store pickup, live order status, and automation.",
+        "content": "<h3>About the Project</h3><p>Piatto, crafted by Driggs Code in Buenos Aires, is an all-in-one food ordering platform automating restaurant sales. It offers in-store pickup, live order status, digital menus, personalized discounts, and intelligent scheduling—without commission fees.</p><h3>Key Features</h3><ul><li>Automated order processing with clear confirmations</li><li>Customizable menus and pricing via a user-friendly panel</li><li>WhatsApp integration for customer communication</li><li>Secure payments without aliases</li><li>Professional branding with logos and banners</li></ul><h3>Setup Process</h3><ol><li>Subscribe to the monthly plan; Driggs Code sets up your digital store.</li><li>We design a personalized page with your logo and payment options.</li><li>Share your unique link (e.g., piattoweb.com/yourrestaurant) to start selling.</li></ol><h3>Benefits</h3><p>Piatto saves time, boosts sales, and ensures a secure, optimized experience, made in Argentina for global reach.</p><h3>Contact</h3><p>Learn more via WhatsApp or email <a href='mailto:contact@driggscode.com'>contact@driggscode.com</a>.</p>",
+        "project_details": {
+            "service_provided": "Full Stack Web Development & E-commerce Solutions",
+            "project_duration": "12-14 Weeks",
+            "budget_range": "$10,000 - $18,000",
+            "project_summary": "Piatto is a comprehensive food ordering platform designed to automate restaurant operations, enhance customer experience, and increase sales efficiency.",
+            "challenge": "Building a commission-free system with real-time updates and secure payments while maintaining low operational costs.",
+            "goals_for_the_project": "Develop a scalable, user-friendly platform to automate food ordering, reduce manual work, and expand market reach for Argentine restaurants."
+        },
+        "unique_selling_points": "Cost-effective automation solutions with Argentine innovation, offering time zone synergy with U.S. clients and no hidden fees."
+    },
+    {
+        "id": "obras-privadas",
+        "title": "Private Works",
+        "image": "/static/images/case-study4.png",
+        "description": "A web application aimed at fostering public-private partnerships in Argentina to accelerate public works.",
+        "content": "<h3>About the Project</h3><p>Obras Privadas, developed by Driggs Code, is a Django-based web application connecting citizens, businesses, and the Argentine government to enhance public infrastructure. Citizens propose projects, the community votes, and businesses compete to finance top initiatives, promoting transparency.</p><h3>Project Details</h3><ul><li><strong>Service:</strong> Full Stack Web Development</li><li><strong>Duration:</strong> 8-10 Weeks</li><li><strong>Budget:</strong> $10,000 - $20,000</li></ul><h3>Goals</h3><p>Build an intuitive platform for project proposals, voting, and financing, integrated with government APIs like Mi Argentina.</p><h3>Challenge</h3><p>Ensuring transparency, security, and seamless collaboration among stakeholders while meeting regulatory standards.</p><h3>Contact</h3><p>Inquire at <a href='mailto:contact@driggscode.com'>contact@driggscode.com</a>.</p>",
+        "project_details": {
+            "service_provided": "Full Stack Web Development",
+            "project_duration": "10-12 Weeks",
+            "budget_range": "$8,000 - $13,000",
+            "project_summary": "Obras Privadas is a Django-based platform fostering public-private partnerships to accelerate infrastructure projects in Argentina with citizen input and business investment.",
+            "challenge": "Designing a secure, transparent system with government API integration while managing diverse stakeholder needs.",
+            "goals_for_the_project": "Create a collaborative platform to enhance infrastructure development, reduce corruption, and optimize public spending in Argentina."
+        },
+        "unique_selling_points": "Affordable, secure solutions from Buenos Aires, with expert integration and a time zone advantage for U.S. collaboration."
+    },
+    {
+        "id": "veda-studdio",
+        "title": "VÉDA Studio",
+        "image": "/static/images/case-study5.png",
+        "description": "A responsive web platform for personalized interior design with an API-driven newsletter subscription.",
+        "content": "<h3>About the Project</h3><p>VÉDA Studio, built by Driggs Code in Argentina, is a responsive web platform for personalized interior design. It features a dynamic project carousel, client review slider, API-driven newsletter with real-time form validation, smooth-scrolling navigation, and a mobile-optimized hamburger menu.</p><h3>Key Features</h3><ul><li>Interactive portfolio carousel</li><li>Client review slider with navigation</li><li>Newsletter subscription with API validation</li><li>Smooth-scrolling and mobile optimization</li></ul><h3>Benefits</h3><p>Enhances user experience with a modern, accessible design, crafted for VÉDA Studio’s global clientele.</p><h3>Contact</h3><p>Contact us at <a href='mailto:contact@driggscode.com'>contact@driggscode.com</a>.</p>",
+        "project_details": {
+            "service_provided": "Web Development & UI/UX Design",
+            "project_duration": "2-4 Weeks",
+            "budget_range": "$1,000 - $3,000",
+            "project_summary": "VÉDA Studio is a responsive web platform offering personalized interior design services with advanced features like API-driven newsletters and mobile optimization.",
+            "challenge": "Balancing a visually stunning design with robust functionality and real-time validation on a tight schedule.",
+            "goals_for_the_project": "Deliver a cutting-edge, user-friendly platform to showcase VÉDA Studio’s portfolio and engage a global audience."
+        },
+        "unique_selling_points": "High-quality design and development at Argentine rates, with seamless U.S. time zone collaboration and mobile-first expertise."
+    }
+]

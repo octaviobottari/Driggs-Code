@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: flask-server
+    runtime: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SENDER_EMAIL
+        sync: false
+      - key: EMAIL_PASSWORD
+        sync: false
+      - key: SECRET_KEY
+        sync: false
