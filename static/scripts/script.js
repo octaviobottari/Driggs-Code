@@ -166,7 +166,6 @@ function openModal(caseStudyId, caseStudies) {
         <ul>
             <li><strong>Service Provided:</strong> ${caseStudy.project_details?.service_provided || 'N/A'}</li>
             <li><strong>Project Duration:</strong> ${caseStudy.project_details?.project_duration || 'N/A'}</li>
-            <li><strong>Budget Range:</strong> ${caseStudy.project_details?.budget_range || 'N/A'}</li>
             <li><strong>Project Summary:</strong> ${caseStudy.project_details?.project_summary || 'N/A'}</li>
             <li><strong>Challenge:</strong> ${caseStudy.project_details?.challenge || 'N/A'}</li>
             <li><strong>Goals:</strong> ${caseStudy.project_details?.goals_for_the_project || 'N/A'}</li>

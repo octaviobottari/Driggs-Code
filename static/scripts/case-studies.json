@@ -24,7 +24,6 @@
         "project_details": {
             "service_provided": "Full Stack Web Development & WordPress Integration",
             "project_duration": "8-10 Weeks",
-            "budget_range": "$6,000 - $12,000",
             "project_summary": "A municipal website for Urdinarrain, combining custom full-stack development with WordPress to provide efficient local government services.",
             "challenge": "Integrating legacy systems with WordPress while ensuring accessibility for a diverse user base in a rural area.",
             "goals_for_the_project": "Deliver a scalable, accessible platform to improve government-citizen interaction and streamline local services in Urdinarrain."
@@ -40,7 +39,6 @@
         "project_details": {
             "service_provided": "Full Stack Web Development & E-commerce Solutions",
             "project_duration": "12-14 Weeks",
-            "budget_range": "$10,000 - $18,000",
             "project_summary": "Piatto is a comprehensive food ordering platform designed to automate restaurant operations, enhance customer experience, and increase sales efficiency.",
             "challenge": "Building a commission-free system with real-time updates and secure payments while maintaining low operational costs.",
             "goals_for_the_project": "Develop a scalable, user-friendly platform to automate food ordering, reduce manual work, and expand market reach for Argentine restaurants."
@@ -56,7 +54,6 @@
         "project_details": {
             "service_provided": "Full Stack Web Development",
             "project_duration": "10-12 Weeks",
-            "budget_range": "$8,000 - $13,000",
             "project_summary": "Obras Privadas is a Django-based platform fostering public-private partnerships to accelerate infrastructure projects in Argentina with citizen input and business investment.",
             "challenge": "Designing a secure, transparent system with government API integration while managing diverse stakeholder needs.",
             "goals_for_the_project": "Create a collaborative platform to enhance infrastructure development, reduce corruption, and optimize public spending in Argentina."
@@ -72,7 +69,6 @@
         "project_details": {
             "service_provided": "Web Development & UI/UX Design",
             "project_duration": "2-4 Weeks",
-            "budget_range": "$1,000 - $3,000",
             "project_summary": "VÉDA Studio is a responsive web platform offering personalized interior design services with advanced features like API-driven newsletters and mobile optimization.",
             "challenge": "Balancing a visually stunning design with robust functionality and real-time validation on a tight schedule.",
             "goals_for_the_project": "Deliver a cutting-edge, user-friendly platform to showcase VÉDA Studio’s portfolio and engage a global audience."
